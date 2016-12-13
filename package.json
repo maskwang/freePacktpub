@@ -1,0 +1,11 @@
+{
+	"name": "freePacktpub",
+	"version": "1.0.0",
+	"private": false,
+	"author": "maskwang <mask.wang.cn@gmail.com>",
+	"scripts": {
+		"start": "casperjs --proxy=localhost:8064 --proxy-type=socks5 --ignore-ssl-errors=yes --web-security=no index.js"
+	},
+	"dependencies": {
+	}
+}

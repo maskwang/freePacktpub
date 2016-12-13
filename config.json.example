@@ -1,0 +1,7 @@
+{
+    "debug": true,
+    "username": "xxx",
+    "password": "xxx",
+    "cookiePath": "/tmp/",
+    "logPath": "/tmp/"
+}
